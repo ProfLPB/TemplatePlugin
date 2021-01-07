@@ -1,0 +1,5 @@
+name: Template
+version: 1.0.0
+main: fr.prof.template.TemplatePlugin
+commands:
+  template:
